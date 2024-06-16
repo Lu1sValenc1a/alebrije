@@ -4,7 +4,7 @@
 
 // Configuración del Wi-Fi
 const char* ssid = "INFINITUM57C7_2.4";
-const char* password = "4ApgSFasu4";
+const char* password = "";
 
 // Configuración de los Servomotores
 Servo servo1;
